@@ -1,0 +1,4 @@
+#!/Users/khairunnasulfahmi/Desktop/GraphEmbedding-master/bin/python3
+# EASY-INSTALL-SCRIPT: 'boto==2.49.0','bundle_image'
+__requires__ = 'boto==2.49.0'
+__import__('pkg_resources').run_script('boto==2.49.0', 'bundle_image')
